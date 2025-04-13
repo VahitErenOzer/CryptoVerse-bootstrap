@@ -17,4 +17,7 @@ This is a **responsive cryptocurrency-themed user interface project** built with
 
 > The GIF above showcases how the interface looks and behaves in real time.
 
-## 🚀 Getting Started
+📌 Notes
+This project focuses solely on front-end development.
+
+Mobile-first approach and responsiveness were prioritized throughout the design process.
