@@ -11,7 +11,8 @@ This is a **responsive cryptocurrency-themed user interface project** built with
 
 ## 📸 Live Preview
 
-![Cryptoverse](https://github.com/user-attachments/assets/802e8087-2c64-462f-894f-935b4d7fcdb2)
+
+![Cryptoverse](https://github.com/user-attachments/assets/aaaf60ad-d200-432c-b794-c2254679085c)
 
 
 > The GIF above showcases how the interface looks and behaves in real time.
